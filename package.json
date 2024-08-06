@@ -20,5 +20,9 @@
   "devDependencies": {
     "@remix-run/dev": "^2.11.1",
     "vite": "^5.3.5"
+  },
+  "volta": {
+    "node": "20.16.0",
+    "npm": "10.8.2"
   }
 }
