@@ -2,7 +2,7 @@
 
 ## Reference
 
-- [Remix - Build Better Websites](https://remix.run/)
+- [Remix Docs Home | Remix](https://remix.run/docs/en/main)
 
 ## TOC
 
