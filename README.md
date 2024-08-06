@@ -40,3 +40,8 @@ npm run dev
 ### [remix-tutorial/](02-tutorial/remix-tutorial/)
 
 - [Tutorial (30m) | Remix](https://remix.run/docs/en/main/start/tutorial)
+
+```shell
+# Start dev server
+npm run dev
+```
