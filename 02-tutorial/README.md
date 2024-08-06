@@ -1,5 +1,5 @@
 
-# 02-tutorial
+# 02. Tutorial
 
 ## Reference
 

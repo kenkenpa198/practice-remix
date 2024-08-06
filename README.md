@@ -6,5 +6,5 @@
 
 ## TOC
 
-- [01-quickstart/](01-quickstart/)
-- [02-tutorial/](02-tutorial/)
+- [01. Quick Start](01-quickstart/)
+- [02. Tutorial](02-tutorial/)
